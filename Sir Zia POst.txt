@@ -1,0 +1,58 @@
+First Saylani React Project Competition 
+React Ninja Grand Champion Prize: Rs. 15,000
+React Rockstar Prize: Rs. 10,000
+React Professional Developer Prize: Rs. 5,000
+Note: A certificate will be issued both from Saylani and Panacloud.
+Any one can participate in this competition. However, I feel there are very few React developers outside Saylani and Panacloud (Prove me wrong, it will make me very happy). 
+Today we are starting a competition to assess who are the best React developers in Saylani Batch 4. The developer who will complete all these projects first will win the competition:
+Project 0: Excel: A Fancy Table Component (React Up and Running Chapter 3)
+Project 1: Menu (React Quickly Chapter 9)
+Project 2: Tooltip (React Quickly Chapter 10)
+Project 3: Timer (React Quickly Chapter 11)
+Project 4: Nile Book Store with React Router (React Quickly Chapter 18)
+Project 5: Password with Jest (React Quickly Chapter 19)
+Project 6: Autocomplete with Jest, Express and MongoDB (React Quickly Chapter 20)
+Project 7: Campus Recruitment System ( https://www.dropbox.com/s/691mnjl89e71b5i/ProjectLevel0.doc… )
+Project 8: Real-time Parking Booking System ( https://www.dropbox.com/s/hs5l42fwjmdn69m/ProjectLevel1.doc… )
+Project 9: One-to-One Chatting & Image Sharing System ( https://www.dropbox.com/s/yqxub8lzx225mvq/ProjectLevel2.doc… )
+Project 10: I-REALTIME AUCTION ( https://www.dropbox.com/s/v0qr6j3oy6or9mk/ProjectLevel3.doc… )
+For each project you will create a private bitbucket repo for your code. From the commit dates we will figure out later when you completed your project. 
+As soon as you have completed a project you will report on this group that you have completed a project. Haider Ali will create a web spreadsheet of the top ten developers who have completed the most projects. This list will be continuously updated. Once you have completed all the projects Judges will review your code. 
+You will be given help in the labs to understand concepts in these projects, but no direct coding will be done for you.
+You are allowed to review the code in the book and other sources, however you are not allowed to cut and paste code from any source including from any other developer. If there is even a suspicion that you have cut and pasted code from any source you will be expelled from the program immediately.
+
+I believe that my factory members are the best React developers in Karachi. We will prove it by winning all the top three prizes Insha Allah. However, please note that I have not told my factory members that I am going to make this announcement today, so that they do not get any unfair advantage.
+
+Note:
+Today the Panacloud Factory managers completed the selection of Saylani Batch 4 Bootcampers, I am sorry to report that some were not selected. However, they will get another chance in the near future
+
+
+
+
+
+
+
+
+
+---------------------------------------------
+
+
+
+
+
+
+To Saylani Batch 4 Students
+We rested today i.e. Monday. Lets get to work now. We will not move forward unless you have completed these eight React projects using Redux (I have already given you these eight projects there is nothing new in them):
+Project 1: Campus Recruitment System https://www.dropbox.com/s/691mnjl89e71b5i/ProjectLevel0.doc… 
+Project 2: Real-time Parking Booking System https://www.dropbox.com/s/hs5l42fwjmdn69m/ProjectLevel1.doc… 
+Project 3: One-to-One Chatting & Image Sharing System https://www.dropbox.com/s/yqxub8lzx225mvq/ProjectLevel2.doc… )
+Project 4: I-REALTIME AUCTION (https://www.dropbox.com/s/v0qr6j3oy6or9mk/ProjectLevel3.doc…
+Project 5: Blood Bank System
+https://www.dropbox.com/s/ee96br7gtpfhh1d/ProjectLevel0.doc…
+Project 6: Crime Reporter and Missing Person Finder App
+https://www.dropbox.com/s/2b0ena38wqr4iko/ProjectLevel1.doc…
+Project 7: Inventory Management System using Simple Linear Regression
+https://www.dropbox.com/s/6fs85uuywisb268/ProjectLevel2.doc…
+Project 8: React Dashboard Template
+https://www.dropbox.com/s/jf9z6km3de29o…/ProjectLevel3.docx…
+Muhammad Ali Mughal Dear friend please make sure only those students proceed in the program who have completed these eight projects. Also we will check each and every project to make sure there is no copy and past artist in our ranks. We will also do viva on each project.

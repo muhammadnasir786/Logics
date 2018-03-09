@@ -1,0 +1,2 @@
+neve use map in a map method => inner map() return a new undefined caontainering values array that was discasting .
+use array.indexOf(value) return index other vise return -1, 

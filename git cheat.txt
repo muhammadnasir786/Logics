@@ -1,0 +1,31 @@
+git remote -v
+# View existing remotes
+# origin  https://github.com/user/repo.git (fetch)
+# origin  https://github.com/user/repo.git (push)
+
+git remote set-url origin https://github.com/user/repo2.git
+# Change the 'origin' remote's URL
+
+git remote -v
+# Verify new remote URL
+# origin  https://github.com/user/repo2.git (fetch)
+# origin  https://github.com/user/repo2.git (push)
+
+
+Muhammad Nasir Batch 4.1 
+email : nasir03082409229@gmail.com
+Contact No : 03082409229
+
+1). Blood Bank Application :
+ Firebase  Link :https://goo.gl/dupZDC
+Github Link : https://goo.gl/DiXjUN
+
+2) . Campus recruitment System
+Firebase Link : https://goo.gl/HhfFpd
+Github Link : https://goo.gl/cr4Xuc
+
+3).Real-Time One-To-One Chat and Image Sharing App
+Firebase Link : https://goo.gl/T4J9Pa
+Github Link : https://goo.gl/FLjQtq
+
+All these project built With React , Redux ,Firebase , Epic as Middleware
